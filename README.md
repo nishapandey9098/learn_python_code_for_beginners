@@ -28,15 +28,13 @@ The repository is organized by topics covered in the course:
 
 🔹 Mini-Projects → calculators, guessing games, file operations, etc.
 
-🛠️ Technologies Used
+> Technologies Used
 
 Python 3.x
-
 Built-in libraries (os, math, etc.)
-
 Text editor: VS Code
 
-🧩 Sample Mini Projects
+> Sample Mini Projects
 
 📝 Calculator → performs basic math operations.
 
@@ -48,7 +46,7 @@ Text editor: VS Code
 
 ✅ To-Do List (CLI) → manage daily tasks via terminal.
 
-📦 How to Run
+> How to Run
 
 Clone the repository:
 
@@ -60,7 +58,7 @@ Run a Python script:
 python mini_projects/calculator.py
 
 
-📖 Learning Outcomes
+> Learning Outcomes
 
 By completing this course and projects, I gained experience in:
 
@@ -73,7 +71,7 @@ Building small but useful automation scripts.
 Using Git/GitHub for version control.
 
 
-🌟 Future Work
+ > Future Work
 
 Add automation projects (file organizer, Excel cleaner).
 
@@ -82,13 +80,14 @@ Explore web scraping (BeautifulSoup, Requests).
 Build GUI apps using Tkinter.
 
 
-🤝 Contributing
+
+> Contributing
 
 This repository is mainly for personal learning, but suggestions are welcome!
 If you find improvements, feel free to open an issue or submit a PR.
 
 
-📬 Contact
+> Contact
 
 If you’d like to connect, collaborate, or hire me for Python automation & scripting work:
 
