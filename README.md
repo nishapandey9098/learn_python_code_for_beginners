@@ -50,12 +50,12 @@ Text editor: VS Code
 
 Clone the repository:
 
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/nishapandey9098/learn_python_code_for_beginners.git
+cd learn_python_code_for_beginners
 
 
 Run a Python script:
-python mini_projects/calculator.py
+python Building_a_better_Calculator.py
 
 
 > Learning Outcomes
